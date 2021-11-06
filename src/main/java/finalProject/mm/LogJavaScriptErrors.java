@@ -33,6 +33,7 @@ System.setProperty("webdriver.chrome.driver", "/Users/rahulshetty/Documents/chro
 		 for(org.openqa.selenium.logging.LogEntry e : logs)//iterating through list and printing each log message
 		 {
 			 System.out.println(e.getMessage());  //Log4j
+			 //change for git
 			
 		 }
 
